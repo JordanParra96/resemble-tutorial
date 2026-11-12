@@ -7,3 +7,6 @@ npm pkg set scripts.test="playwright test" scripts.report="node index.js"
 
 // 3. Ejecucion de la prueba
 npm test
+
+// 4. Generacion del reporte
+npm run report
