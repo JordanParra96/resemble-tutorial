@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "~1.63.0",
+    "canvas": "~3.2.3",
+    "pngjs": "~7.0.0",
+    "resemblejs": "~5.0.0"
+  }
 }

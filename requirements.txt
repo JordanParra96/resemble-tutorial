@@ -1,0 +1,2 @@
+npm install --save-dev @playwright/test@~1.63.0 resemblejs@~5.0.0 canvas@~3.2.3 pngjs@~7.0.0
+npx playwright install chromium
