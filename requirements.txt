@@ -4,3 +4,6 @@ npx playwright install chromium
 
 // 2. Scripts para ejecutar pruebas y generar reportes
 npm pkg set scripts.test="playwright test" scripts.report="node index.js"
+
+// 3. Ejecucion de la prueba
+npm test
